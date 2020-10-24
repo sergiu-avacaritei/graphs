@@ -1,6 +1,6 @@
-# graphs
+## GRAPHS 
 ## GENERAL INFO ##
-	> The main purpose of the program is to extract information from a given network about its structure and its properties.
+	> The main purpose of the program is to extract information from a given network (graph) about its structure and its properties.
 
 ## RUN ##
 	> To run this program: ./network <data> or ./network <data> <node1> <node2>
