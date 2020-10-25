@@ -11,7 +11,7 @@ or
 
 where:
 
-> **data** is a string of weighted links between nodes (e.g.: "1-2/3.14,3,2-2").
+> **data** is a string of weighted links between nodes, i.e.: **node-node/weight** (e.g.: "1-2/3.14,3,2-2")
 
 > **node1** and **node2** are nodes from the network.
 
