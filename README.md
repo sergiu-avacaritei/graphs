@@ -4,9 +4,14 @@ The main purpose of the program is to extract information from a given network (
 
 ## RUN 
 To run this program: 
-#### ./network data or ./network data node1 node2
+
+#### ./network data or 
+#### ./network data node1 node2
+
 where:
+
 > **data** is a string of weighted links between nodes (e.g.: "1-2/3.14,3,2-2").
+
 > **node1** and **node2** are nodes from the network.
 
 Note: I strongly recommend running it with the following command to see all of its functionalities (e.g: 1-2/3.14,1-3,2-4,2-5 1 4).
