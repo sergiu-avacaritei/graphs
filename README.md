@@ -5,7 +5,8 @@ The main purpose of the program is to extract information from a given network (
 ## RUN 
 To run this program: 
 
-#### ./network data or 
+#### ./network data 
+or 
 #### ./network data node1 node2
 
 where:
